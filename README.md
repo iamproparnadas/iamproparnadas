@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **PHP, WordPress, Laravel, Symfony , React, Vue, Angularetc.**
 
-- 📫 How to reach me **proparna.ampit@gmail.com**
+- 📫 How to reach me **proparna.das.cc@gmail.com**
 
 - ⚡ Fun fact **I love Football, and I'm a gamer too. Channel link : https://www.youtube.com/@Thebonggamerpro**
 
