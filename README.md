@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/proparnadas/](https://www.linkedin.com/in/proparnadas/)
 
-- 💬 Ask me about **PHP, WordPress, Laravel, Symfony , React, Vue, Angularetc.**
+- 💬 Ask me about **MERN, React Native IOS / ANDROID WordPress, Laravel, Symfony , React, Vue, Angular etc.**
 
 - 📫 How to reach me **proparna.das.cc@gmail.com**
 
